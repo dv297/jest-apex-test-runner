@@ -1,0 +1,19 @@
+{
+  "name": "jest-apex-test-runner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "create-jest-runner": "^0.6.0",
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.4"
+  }
+}
