@@ -2,6 +2,8 @@
 
 > Proof of concept for running Salesforce Apex tests using Jest
 
+[See the blog post that goes with this repository!](https://daniel-vu.com/building-custom-jest-runner-for-salesforce-apex-tests)
+
 ## Why?
 
 I recently moved into my first role Salesforce engineering role. Prior to working in Salesforce, I was primarily working
